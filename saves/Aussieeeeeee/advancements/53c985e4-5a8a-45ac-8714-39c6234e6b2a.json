@@ -1,0 +1,50 @@
+{
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2021-09-11 16:58:21 -0400"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/root": {
+    "criteria": {
+      "crafting_table": "2021-09-11 16:56:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2021-09-11 16:58:21 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2021-09-11 16:49:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2021-09-11 16:49:23 -0400"
+    },
+    "done": false
+  },
+  "mts:root": {
+    "criteria": {
+      "crafting_table": "2021-09-11 16:56:52 -0400"
+    },
+    "done": true
+  },
+  "bewitchment:root": {
+    "criteria": {
+      "tick": "2021-09-11 16:49:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2021-09-11 16:56:52 -0400"
+    },
+    "done": true
+  }
+}

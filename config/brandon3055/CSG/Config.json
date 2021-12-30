@@ -1,0 +1,8 @@
+{
+  "inventory": {
+    "0:0": "opencomputers:tool,1,4,{ench:[{lvl:1s,id:26s}]}",
+    "0:1": "tconstruct:book,1,0,{ench:[{lvl:1s,id:26s}]}",
+    "0:2": "patchouli:guide_book,1,0,{ench:[{lvl:1s,id:26s}],\"patchouli:book\":\"twilightforest:guide\"}",
+    "0:9": "mysttmtgravitymod:gravityanchor,1,0,{ench:[{lvl:1s,id:26s}]}"
+  }
+}
